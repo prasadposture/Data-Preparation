@@ -1,1 +1,2 @@
-# Data-Preparation
+# Data Preparation
+Data preparation is an important part of any machine learning project. It involves cleaning and transforming raw data into a format that can be used by machine learning models. In this repository, we'll explore various techniques for data preparation, such as data cleaning, feature engineering, and data normalization. We'll also provide examples and code snippets to help you get started with data preparation in your own machine learning projects.
